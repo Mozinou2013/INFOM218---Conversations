@@ -1,0 +1,49 @@
+// Nous avons exporté le schéma depuis SQLInspect et nous avons obtenu ceci. Nous avons utilisé le "dossier" conversation avec le code du projet. Cependant comme vous l'aurez lu ou comme vous allez lire, nous avons beaucoup plus de table que celles indiquées ici. 
+{
+  "Databases" : [ {
+    "Name" : "DB",
+    "Schemas" : [ {
+      "Name" : "SCH",
+      "Tables" : [ {
+        "Name" : "push",
+        "Columns" : [ {
+          "Name" : "account",
+          "Type" : "TEXT"
+        }, {
+          "Name" : "transport",
+          "Type" : "TEXT"
+        }, {
+          "Name" : "application",
+          "Type" : "TEXT"
+        }, {
+          "Name" : "instance",
+          "Type" : "TEXT"
+        }, {
+          "Name" : "endpoint",
+          "Type" : "TEXT"
+        }, {
+          "Name" : "expiration",
+          "Type" : "NUMERIC"
+        } ]
+      }, {
+        "Name" : "resolver_results",
+        "Columns" : [ ]
+      }, {
+        "Name" : "caps_cache",
+        "Columns" : [ {
+          "Name" : "caps",
+          "Type" : "TEXT"
+        }, {
+          "Name" : "caps2",
+          "Type" : "TEXT"
+        }, {
+          "Name" : "disco_info",
+          "Type" : "TEXT"
+        }, {
+          "Name" : "UNIQUE",
+          "Type" : "NUMERIC"
+        } ]
+      } ]
+    } ]
+  } ]
+}

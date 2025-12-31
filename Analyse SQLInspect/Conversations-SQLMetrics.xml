@@ -1,0 +1,202 @@
+<?xml version="1.0" ?>
+<Metrics>
+  <Database>
+    <Statement Id="104" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/UnifiedPushDatabase.java" Line="40">
+    </Statement>
+    <Statement Id="145" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/UnifiedPushDatabase.java" Line="159">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="1"></Metric>
+        <Metric name="Nesting Level" value="1"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="147" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="347">
+    </Statement>
+    <Statement Id="154" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="360">
+    </Statement>
+    <Statement Id="157" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="366">
+    </Statement>
+    <Statement Id="198" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="406">
+    </Statement>
+    <Statement Id="222" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="434">
+    </Statement>
+    <Statement Id="298" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="497">
+    </Statement>
+    <Statement Id="333" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="498">
+    </Statement>
+    <Statement Id="349" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="499">
+    </Statement>
+    <Statement Id="362" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="500">
+    </Statement>
+    <Statement Id="375" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="501">
+    </Statement>
+    <Statement Id="402" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="502">
+    </Statement>
+    <Statement Id="414" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="503">
+    </Statement>
+    <Statement Id="495" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="508">
+    </Statement>
+    <Statement Id="524" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="516">
+    </Statement>
+    <Statement Id="526" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="526">
+    </Statement>
+    <Statement Id="530" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="530">
+    </Statement>
+    <Statement Id="532" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="531">
+    </Statement>
+    <Statement Id="571" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="532">
+    </Statement>
+    <Statement Id="573" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="535">
+    </Statement>
+    <Statement Id="577" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="543">
+    </Statement>
+    <Statement Id="581" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="549">
+    </Statement>
+    <Statement Id="585" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="551">
+    </Statement>
+    <Statement Id="589" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="555">
+    </Statement>
+    <Statement Id="593" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="563">
+    </Statement>
+    <Statement Id="597" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="569">
+    </Statement>
+    <Statement Id="601" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="577">
+    </Statement>
+    <Statement Id="605" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="585">
+    </Statement>
+    <Statement Id="609" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="587">
+    </Statement>
+    <Statement Id="615" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="588">
+    </Statement>
+    <Statement Id="617" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="591">
+    </Statement>
+    <Statement Id="621" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="599">
+    </Statement>
+    <Statement Id="627" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="600">
+    </Statement>
+    <Statement Id="629" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="607">
+    </Statement>
+    <Statement Id="633" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="615">
+    </Statement>
+    <Statement Id="640" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="994">
+    </Statement>
+    <Statement Id="642" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="997">
+    </Statement>
+    <Statement Id="644" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="998">
+    </Statement>
+    <Statement Id="646" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="999">
+    </Statement>
+    <Statement Id="648" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="1000">
+    </Statement>
+    <Statement Id="650" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="1083">
+    </Statement>
+    <Statement Id="652" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="1084">
+    </Statement>
+    <Statement Id="673" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="1094">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="679" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="1118">
+    </Statement>
+    <Statement Id="687" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="1132">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="693" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="1154">
+    </Statement>
+    <Statement Id="705" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="1171">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="711" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="1197">
+    </Statement>
+    <Statement Id="730" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="1300">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="791" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="1423">
+      <Metrics>
+        <Metric name="Fields" value="4"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="858" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="1423">
+      <Metrics>
+        <Metric name="Fields" value="4"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="900" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="1530">
+      <Metrics>
+        <Metric name="Fields" value="2"></Metric>
+        <Metric name="Nested Queries" value="1"></Metric>
+        <Metric name="Nesting Level" value="1"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="936" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="1725">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="1012" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="1914">
+      <Metrics>
+        <Metric name="Fields" value="2"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="1057" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="1937">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="1059" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="2607">
+    </Statement>
+    <Statement Id="1061" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="2608">
+    </Statement>
+    <Statement Id="1077" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="2609">
+    </Statement>
+    <Statement Id="1079" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="2610">
+    </Statement>
+    <Statement Id="1092" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="2611">
+    </Statement>
+    <Statement Id="1094" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="2612">
+    </Statement>
+    <Statement Id="1107" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="2613">
+    </Statement>
+    <Statement Id="1109" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/persistance/DatabaseBackend.java" Line="2614">
+    </Statement>
+    <Statement Id="1155" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/worker/ExportBackupWorker.java" Line="415">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="1199" Path="C:/Users/louis/Documents/Projet/Conversations/src/main/java/eu/siacs/conversations/worker/ImportBackupWorker.java" Line="220">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+</Database>  
+</Metrics>
